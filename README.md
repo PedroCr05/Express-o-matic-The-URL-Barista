@@ -1,4 +1,6 @@
 # Express-o-matic-The-URL-Barista
-Did you like that one? Get it? Expresso-matic... *Ahem* 
+Did you like that one? Get it? 
 
-Brewing up responses, one route at a time. >.>
+*Expresso-matic...* 
+
+*Ahem* Brewing up responses, one route at a time. >.>
